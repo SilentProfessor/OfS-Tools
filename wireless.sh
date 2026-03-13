@@ -1,0 +1,37 @@
+sudo apt update && sudo apt install -y \
+aircrack-ng \
+airgraph-ng \
+airmon-ng \
+airodump-ng \
+aireplay-ng \
+airbase-ng \
+airdecloak-ng \
+airdecap-ng \
+airserv-ng \
+airtun-ng \
+airolib-ng \
+asleap \
+besside-ng \
+bully \
+bluelog \
+bluemaho \
+bluepot \
+blueranger \
+bluesnarfer \
+cowpatty \
+crackle \
+eapmd5pass \
+eaphammer \
+sslstrip \
+sslsplit \
+sslyze \
+sublist3r \
+thc-ipv6 \
+theharvester \
+tlssled \
+twofi \
+unicornscan \
+urlcrazy \
+wireshark \
+wakeonlan \
+xplico
